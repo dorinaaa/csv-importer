@@ -1,2 +1,2 @@
 Date,Type,TrafficSourceCampaignId,TrafficSourceWidgetId,TrafficSourceContentId,TrafficSourceSectionId,TrafficSourceDomainId,TrafficSourceSiteId,TrafficSourceExchangeId,TrafficSourceAdGroupId,TrafficSourceTargetId,TrackerCampaignId,TrackerClicks,TrackerConversions,TrackerRevenue,TrafficSourceImpressions,TrafficSourceClicks,TrafficSourceConversions,Cost,TrafficSourceRevenue,PublisherClicks,PublisherRevenue,PublisherConversions
-2024-01-10,Campaign,ddd,,,,,,,,,,,,,3,3,4,3,3,,,
+2024-01-10,campaign,ddd,,,,,,,,,,,,,3,3,4,3,3,,,
